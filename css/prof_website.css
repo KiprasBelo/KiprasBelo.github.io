@@ -1,0 +1,158 @@
+html {
+	background-color: Lightblue;
+	margin-bottom: 50px;
+}
+
+body {
+	margin-top: 0px;
+	font-family: Signika;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: White;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 40px;
+}
+
+#header {
+	text-align: center;
+	padding-top: 10px;
+}
+
+#pdf {
+	position: absolute;
+    margin-left: 435px;
+}
+
+nav {
+	position: absolute;
+    margin-top: -42px;
+    padding-left: 10px;
+}
+
+nav > a {
+	padding-right: 30px;
+	color: white;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: Lightblue;
+}
+
+#ResumePage {
+	color: Lightblue;
+}
+
+#Education > hr {
+	padding-top: 0px;
+    margin-top: 35px;
+	height: 3px;
+	background-color: black;
+	border-width: 0px;
+}
+
+#rectangle {
+	position: absolute;
+    width: 3px;
+    height: 773px;
+    background: black;
+	margin-top: -10px;
+    margin-left: 677px;
+}
+
+#rectangle2 {
+	position: absolute;
+    width: 294px;
+    height: 3px;
+    background: black;
+	margin-top: -11px;
+    margin-left: 677px;
+}
+
+#sidebar {
+	position: absolute;
+    width: 290px;
+    height: 771px;
+    background: lightgrey;
+    margin-top: -8px;
+    margin-left: 680px;
+}
+
+#Work {
+	margin-top: -20px;
+}
+
+#Objectivesection > hr {
+	height: 3px;
+	background-color: black;
+	border-width: 0px;
+}
+
+#Objective {
+	padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+#navhr {
+	height: 40px;
+	background-color: black;
+	border-width: 0px;
+}
+
+#Skills {
+	position: absolute;
+	margin-top: -706px;
+	margin-left: 704px;
+}
+
+#Work > h2 {
+	padding-top: 40px
+}
+
+#DTU {
+	padding-top: 30px;
+}
+
+#IITDate {
+	position: absolute;
+    margin-left: 560px;
+    margin-top: -98px;
+}
+
+#DTUDate {
+	position: absolute;
+    margin-left: 560px;
+	margin-top: -98px;
+}
+
+#IITOfficeDate {
+	position: absolute;
+    margin-left: 560px;
+	margin-top: -200px;
+}
+
+#Jewel {
+	padding-top: 10px;
+}
+
+#JewelDate {
+	position: absolute;
+    margin-left: 560px;
+	margin-top: -110px;
+}
+
+#Projects {
+	position: absolute;
+	margin-top: -445px;
+	margin-left: 712px;
+}
+
+p {
+	padding : 0;
+    margin : 0;
+	line-height : 20px;
+}
